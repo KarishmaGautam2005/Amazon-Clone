@@ -247,7 +247,7 @@
  }
 
  .logo {
-    background-image: url("amozone.png");
+    background-image: url("images.png");
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -273,4 +273,5 @@
  .copyright {
     padding-top: 5px;
     
+
  }
